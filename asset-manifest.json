@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.js": "/treichel/static/js/main.7a5e6e35.chunk.js",
-    "main.js.map": "/treichel/static/js/main.7a5e6e35.chunk.js.map",
+    "main.css": "/treichel/static/css/main.1e2bf87c.chunk.css",
+    "main.js": "/treichel/static/js/main.10d0c327.chunk.js",
+    "main.js.map": "/treichel/static/js/main.10d0c327.chunk.js.map",
     "runtime-main.js": "/treichel/static/js/runtime-main.7893007e.js",
     "runtime-main.js.map": "/treichel/static/js/runtime-main.7893007e.js.map",
-    "static/js/2.60a5438f.chunk.js": "/treichel/static/js/2.60a5438f.chunk.js",
-    "static/js/2.60a5438f.chunk.js.map": "/treichel/static/js/2.60a5438f.chunk.js.map",
+    "static/js/2.de4878a1.chunk.js": "/treichel/static/js/2.de4878a1.chunk.js",
+    "static/js/2.de4878a1.chunk.js.map": "/treichel/static/js/2.de4878a1.chunk.js.map",
     "index.html": "/treichel/index.html",
-    "static/js/2.60a5438f.chunk.js.LICENSE.txt": "/treichel/static/js/2.60a5438f.chunk.js.LICENSE.txt"
+    "static/css/main.1e2bf87c.chunk.css.map": "/treichel/static/css/main.1e2bf87c.chunk.css.map",
+    "static/js/2.de4878a1.chunk.js.LICENSE.txt": "/treichel/static/js/2.de4878a1.chunk.js.LICENSE.txt",
+    "static/media/v1-beispiel.b19844a2.png": "/treichel/static/media/v1-beispiel.b19844a2.png",
+    "static/media/v2-beispiel.b5830eb2.png": "/treichel/static/media/v2-beispiel.b5830eb2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7893007e.js",
-    "static/js/2.60a5438f.chunk.js",
-    "static/js/main.7a5e6e35.chunk.js"
+    "static/js/2.de4878a1.chunk.js",
+    "static/css/main.1e2bf87c.chunk.css",
+    "static/js/main.10d0c327.chunk.js"
   ]
 }
